@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @SquidRanger27
 - 👀 I’m interested in making a discord bot
-- 🌱 I’m currently learning python
-- 📫 How to reach me dm me on discord (Nyarlathotep#2850)
+- 📫 How to reach me dm me on discord (SquidRanger27)
 
 <!---
 SquidRanger27/SquidRanger27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
