@@ -1,6 +1,9 @@
-- 👋 Kia ora! I'm @SquidRanger27 :)
-- 👀 I’m currently studying software at DevAcademy and playing around with personal projects 
-- 📫  discord - SquidRanger27
+Kia ora!, I'm @SquidRanger27 or Andrew.                                 
+I recently studied software development at DevAcademy in Wellington where I've learned a range of skills including knex, SQLite, React JS, etc.                                                                                                                                
+Discord - squidranger27
+Linkedin - www.linkedin.com/in/andrew-dunlop-9290842a0/
+CV - [Fullstack dev CV.pdf](https://github.com/SquidRanger27/SquidRanger27/files/13745192/Fullstack.dev.CV.pdf)
+
 
 <!---
 SquidRanger27/SquidRanger27 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
